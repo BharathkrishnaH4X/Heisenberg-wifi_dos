@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# CSV logs created by airodump-ng
+*.csv
+
+# Backup folder
+backup/
+
+# Environment files (if you use any)
+.env
+
+# OS junk files
+.DS_Store
+Thumbs.db
