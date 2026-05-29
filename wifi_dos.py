@@ -137,7 +137,6 @@ try:
             # Print the details of the wireless networks in a formatted way for better readability.
             # F-String is used to format the output in a readable way.
             # The index is used to select the wireless network for the attack and the BSSID
-            # Channel and ESSID are the details of the wireless network that we need for the attack.
             print(f"{index}\t{item['BSSID']}\t{item['channel'].strip()}\t\t{item['ESSID']}")
         # Sleep for 1 second before the next scan to avoid overwhelming the system with too many scans in a short period of time.
         time.sleep(1)
