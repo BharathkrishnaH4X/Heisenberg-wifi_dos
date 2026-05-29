@@ -32,6 +32,7 @@ print(r"""
 print("\n****************************************************************")
 print("\n* Copyright of Bharathkrishna, 2026                            *")
 print("\n* https://github.com/BharathkrishnaH4X                         *")
+print("\n* Sudharshan and Kaviprabhu are Friends                        *")
 print("\n****************************************************************")
 
 # This Program should run in super user privileges because the process uses airmon-ng commands to deauth
