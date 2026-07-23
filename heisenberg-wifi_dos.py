@@ -27,9 +27,10 @@ print(r"""
 | |  | ||  __/| |  \__ \\  __/ | | | | | |_) ||  __/| |  ( |_| |
 |_|  |_| \___||_| /____/ \___| |_| |_| |____/  \___||_|   \__, |
                                                            __/ |
-                                                          |___/ """)
+                                                          |___/ 
+                                                    - A Dedsec Code""")
 print("\n****************************************************************")
-print("\n* Copyright of Bharathkrishna, 2026                            *")
+print("\n* Copyright of BharathkrishnaH4X - Dedsec, 2026                            *")
 print("\n* https://github.com/BharathkrishnaH4X                         *")
 print("\n****************************************************************")
 
