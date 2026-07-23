@@ -31,7 +31,6 @@ print(r"""
 print("\n****************************************************************")
 print("\n* Copyright of Bharathkrishna, 2026                            *")
 print("\n* https://github.com/BharathkrishnaH4X                         *")
-print("\n* Sudharshan and Kaviprabhu are Best Friends                   *")
 print("\n****************************************************************")
 
 if not 'SUDO_UID' in os.environ.keys():
